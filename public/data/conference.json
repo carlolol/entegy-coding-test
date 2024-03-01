@@ -1,0 +1,132 @@
+{
+    "conferenceName": "Big Event Conference + Expo",
+    "roomName": "Conference Room B",
+    "design": {
+        "primaryColour": "#5a2ed4",
+        "secondaryColour": "#8e46c4",
+        "roundness": "medium",
+        "shadows": "medium",
+        "font": "Raleway",
+        "conferenceLogo": "https://assets.entegy.com.au/images/18c784a3-7fff-4650-9d81-8964032c75d1.png"
+    },
+    "sessions": [
+        {
+            "name": "Keynote Speaker Session - Business Marketing - Be Smart",
+            "description": "Jamie Speight presents his most valuable insights of honey marketing and advertising in the 21st century.",
+            "startTime": "10:00",
+            "endTime": "10:45",
+            "allowCheckin": true,
+            "stream": "Business",
+            "type": "Keynote",
+            "categories": [
+                "Business Leadership",
+                "Growth",
+                "Technology"
+            ],
+            "speakers": [
+                {
+                    "name": "James Speight",
+                    "company": "Entegy",
+                    "position": "Head of Business",
+                    "image": "https://assets.entegy.com.au/images/3e9fbfd6-3646-489f-aea5-623c0674fafe.jpg"
+                }
+            ]
+        },
+        {
+            "name": "The Future of Pharma Technology",
+            "description": "Industry-leading insights from a panel of industry-leading professionals. This session highlights the bold and exciting new technologies soon to be embracing the pharmaceutical industries. This session is not to be missed.",
+            "startTime": "11:00",
+            "endTime": "12:15",
+            "allowCheckin": false,
+            "stream": "Technology",
+            "type": "Session",
+            "categories": [
+                "Technology"
+            ],
+            "speakers": [
+                {
+                    "name": "Dr Gordon Smith Ph.D.",
+                    "company": "PharmaTech Australia",
+                    "position": "Director of Operations",
+                    "image": "https://assets.entegy.com.au/images/08219295-db35-4fef-a169-03a9c9b7ed45.jpg"
+                },
+                {
+                    "name": "Graeme Arthur",
+                    "company": "PharmaTech Australia",
+                    "position": "Director of Operations",
+                    "image": "https://assets.entegy.com.au/images/5e1ae4db-6d5c-4642-8d6a-56bbf01939c0.jpg"
+                },
+                {
+                    "name": "Angus O'Brien",
+                    "company": "PharmaTech Australia",
+                    "position": "Director of Operations",
+                    "image": "https://assets.entegy.com.au/images/5e1ae4db-6d5c-4642-8d6a-56bbf01939c0.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Workshop A: OH&S Program",
+            "description": "A workshop is a meeting at which a group of people engage in intensive discussion and activity on a particular subject or project.",
+            "startTime": "18:32",
+            "endTime": "21:00",
+            "allowCheckin": true,
+            "stream": "Business",
+            "type": "Workshop",
+            "categories": [
+                "Business Leadership",
+                "Technology",
+                "Learning & Development"
+            ],
+            "speakers": [
+                {
+                    "name": "Jamie Speight",
+                    "company": "My Company Name",
+                    "position": "Head of Business",
+                    "image": "https://assets.entegy.com.au/images/3e9fbfd6-3646-489f-aea5-623c0674fafe.jpg"
+                },
+                {
+                    "name": "Graeme Arthur",
+                    "company": "My Company Name",
+                    "position": "Head of Business",
+                    "image": "https://assets.entegy.com.au/images/c5e8619a-6305-4b8e-bf62-135e19c72c0d.jpg"
+                },
+                {
+                    "name": "Prof Michelle Arthur",
+                    "company": "My Company Name",
+                    "position": "Head of Business",
+                    "image": "https://assets.entegy.com.au/images/5e1ae4db-6d5c-4642-8d6a-56bbf01939c0.jpg"
+                },
+                {
+                    "name": "Norah Hoffman",
+                    "company": "My Company Name",
+                    "position": "Head of Business",
+                    "image": "https://assets.entegy.com.au/images/537f9a91-6154-4ff4-ad89-cb2b87275382.jpg"
+                },
+                {
+                    "name": "Angus O'Brien",
+                    "company": "My Company Name",
+                    "position": "Head of Business",
+                    "image": "https://assets.entegy.com.au/images/db6af057-6e62-46ab-9d50-2add2ac2bf1f.jpg"
+                },
+                {
+                    "name": "Dr Gordon Smith Ph.D.",
+                    "company": "My Company Name",
+                    "position": "Head of Business",
+                    "image": "https://assets.entegy.com.au/images/08219295-db35-4fef-a169-03a9c9b7ed45.jpg"
+                },
+                {
+                    "name": "Gordon Watson",
+                    "company": "My Company Name",
+                    "position": "Head of Business",
+                    "image": "https://assets.entegy.com.au/images/463312d1-ddb8-4db3-bf11-d90449b4de14.jpg"
+                },
+                {
+                    "name": "Professor Robin Wellows",
+                    "company": "My Company Name",
+                    "position": "Head of Business",
+                    "image": "https://assets.entegy.com.au/images/75377c05-f3e9-43e7-979b-409582aaa59c.jpg"
+                }
+            ]
+        }
+    ]
+}

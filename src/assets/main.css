@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply font-secondary text-secondary-color;
+  }
+
+  h1 {
+    @apply text-6xl font-primary font-bold text-primary-color;
+  }
+
+  h2 {
+    @apply text-5xl font-primary font-bold text-primary-color;
+  }
+
+  h3 {
+    @apply text-4xl font-primary font-bold text-primary-color;
+  }
+
+  h4 {
+    @apply text-3xl font-primary font-bold text-primary-color;
+  }
+
+  h5 {
+    @apply text-2xl font-primary font-semibold text-primary-color;
+  }
+
+  h6 {
+    @apply text-xl font-primary font-semibold text-primary-color;
+  }
+}
